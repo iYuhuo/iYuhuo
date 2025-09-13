@@ -2,7 +2,7 @@
 
 <!-- 动态标题 -->
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=✨+欢迎来到+Yuhuo+的世界+✨;🌸+Welcome+to+My+Universe+🌸" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=✨+欢迎来到+Yuhuo+的主页+✨;🌸+Welcome+to+My+Universe+🌸" alt="Typing SVG" />
 </h1>
 
 <!-- 装饰性分割线 -->
@@ -10,7 +10,7 @@
 
 <!-- 个人介绍卡片 -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=9745F5&center=true&vCenter=true&width=500&lines=🧌+技术哥布林+%26+异世界传送门向往者;💻+Code+Wizard+%26+Dream+Chaser" alt="Description" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=9745F5&center=true&vCenter=true&width=500&lines=🧌+没有技术+%26+异世界传送门向往者;💻+Code+Wizard+%26+Dream+Chaser" alt="Description" />
 </div>
 
 <br>
